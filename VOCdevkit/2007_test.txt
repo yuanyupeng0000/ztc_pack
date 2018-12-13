@@ -1,0 +1,10 @@
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/014f328da8e0a69c217fc10635c3f7a8.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/009966ce9c9b2fc621a0ccf501d870c3.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/024ba4df15d6edf6005f0d68ecbf0b99.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/0153c2a1a24e2ba048f20b363b17d28f.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/018ea2c4b93665fef3b32a5eef45435a.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/0025e474100b4f05756e0df68619a0f0.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/02af7fa274a3a49e9f9f3a8255eb6203.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/0012cad44cf86093e6393e59e0d6efeb.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/02126f73a472cafe87c38f74e420d75d.jpg
+/data/github_repos/ztc_pack/VOCdevkit/VOC2007/JPEGImages/01f62baa787a82bf7585faf3ce82a8f4.jpg
