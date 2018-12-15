@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	
+
+	<folder>TMRI2018</folder>
+	
+
+	<filename>008ee7bc868a0876eece3a7d5b589f56.jpg</filename>
+	
+
+	<source>
+		
+    
+		<database>The TMRI2018 Database</database>
+		<annotation>PASCAL TMRI2018</annotation>
+	</source>
+	
+
+	<size>
+		
+    
+		<width>2752</width>
+		
+    
+		<height>2240</height>
+		
+    
+		<depth>3</depth>
+		
+
+	</size>
+	
+
+
+	<segmented>0</segmented>
+	
+    
+	<object>
+		
+    
+		<name>slagcar_11</name>
+		
+    
+		<difficult>0</difficult>
+		
+    
+		<bndbox>
+			
+        
+			<xmin>1303</xmin>
+			
+        
+			<ymin>845</ymin>
+			
+        
+			<xmax>2188</xmax>
+			
+        
+			<ymax>1914</ymax>
+			
+    
+		</bndbox>
+		
+
+		<cover>1</cover>
+		<spray>1</spray>
+	</object>
+	
+
+</annotation>
